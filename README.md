@@ -11,3 +11,4 @@ Spring Boot
 HTML
 Thyemleaf (Library)
 MySQl (Database)
+XAMPP
